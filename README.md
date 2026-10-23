@@ -16,7 +16,7 @@ Los datos que conforman la base principal de registros de traslados se obtuviero
 
 - Para evaluar si los traslados terminaron en municipios con alguna estancia provisional o estación migratoria del INM, se consultó el siguiente [informe](https://www.cndh.org.mx/sites/default/files/documentos/2024-02/INFORME%20ESPECIAL%20ESTANCIAS%20MIGRATORIAS.pdf) de la Comisión Nacional de Derechos Humanos, que en la página 164 empieza un recuento de dichas instalaciones en todo el país, junto con sus fechas de inicio de operaciones. Esta información fue sistematizada en una tabla, la cual está vinculada en `datos/referencias`. 
 
-- Para evaluar el sentido de cada traslado registrado, se realizó a mano un diccionario de sentidos, con referencia al mapa de rutas generado. Este diccionario se encuentra en `datos/referencias`. 
+- Para evaluar el sentido de cada traslado registrado, se realizó un diccionario de sentidos manualmente con referencia al mapa de rutas generado. Este diccionario se encuentra en `datos/referencias`. 
 
 - Para asignar la geometría para el mapa interactivo final, utilizamos los datos geográficos del [INEGI](https://www.inegi.org.mx/app/ageeml/), por ejemplo la tabla de municipios, el cual asigna cada municipio y su correspondiente entidad federativa un código único (CVEGEO). El archivo está incluido en la carpeta `datos/referencias` como un .zip, **tiene que expandirse para funcionar.**
 
