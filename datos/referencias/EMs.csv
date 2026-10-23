@@ -1,0 +1,55 @@
+nombre,municipio,ent_fed,CVEGEO,tipo,operaciones_desde
+Acayucan,Acayucan,Veracruz,30003,em,2007
+Tapachula,Tapachula,Chiapas,7089,em,2006
+Villahermosa,Centro,Tabasco,27004,em,2020
+Iztapalapa,Ciudad de México,Ciudad de México,9007,em,1950
+Guadalupe,Guadalupe,Nuevo León,19026,em,2022
+Reynosa,Reynosa,Tamaulipas,28032,em,2021
+San Luis Potosí,San Luis Potosí,San Luis Potosí,24028,em,0
+Hermosillo,Hermosillo,Sonora,26030,em,2013
+Zacatecas,Zacatecas,Zacatecas,32056,em,2021
+Chetumal,Othón P. Blanco,Quintana Roo,23004,em,2012
+Tampico,Tampico,Tamaulipas,28038,em,2022
+Piedras Negras,Piedras Negras,Coahuila,5025,ep_a,2006
+Huixtla,Huixtla,Chiapas,7040,ep_a,2014
+Tlaxcala,Tlaxcala,Tlaxcala,29033,ep_a,2010
+Morelia,Morelia,Michoacán,16053,ep_a,2006
+Huehuetán,Huehuetán,Chiapas,7037,ep_a,0
+Merida,Merida,Yucatán,31050,ep_a,2008
+Matamoros,Matamoros,Tamaulipas,28022,ep_a,2015
+Ciudad Cuauhtémoc,Frontera Comalapa,Chiapas,7034,ep_a,0
+Agua Prieta,Agua Prieta,Sonora,26002,ep_a,2009
+Nuevo Laredo,Nuevo Laredo,Tamaulipas,28027,ep_a,2005
+Acapulco,Acapulco,Guerrero,12001,ep_a,2019
+Zihuatanejo,Zihuatanejo de Azueta,Guerrero,12038,ep_a,1994
+Ciudad del Carmen,Carmen,Campeche,4003,ep_a,1983
+Manzanillo,Manzanillo,Colima,6007,ep_a,2012
+Tuxtla Gutiérrez,Tuxtla Gutiérrez,Chiapas,7101,ep_b,0
+Oaxaca,Oaxaca de Juárez,Oaxaca,20067,ep_b,2020
+Tijuana,Tijuana,Baja California,2004,ep_b,2002
+Cancún,Benito Juárez,Quintana Roo,23005,ep_b,2015
+Palenque,Palenque,Chiapas,7065,ep_b,2012
+Janos,Janos,Chihuahua,8035,ep_b,2006
+La Ventosa,Juchitán de Zaragoza,Oaxaca,20043,ep_b,2020
+Comitán,Comitán,Chiapas,7019,ep_b,0
+Mexicali,Mexicali,Baja California,2002,ep_b,2000
+La Trinitaria,La Trinitaria,Chiapas,7092,ep_b,0
+Pachuca,Pachuca,Hidalgo,13048,ep_b,2013
+Puebla,Puebla,Puebla,21114,ep_b,2011
+San Pedro Tapanatepec,San Pedro Tapanatepec,Oaxaca,20413,ep_b,1995
+Veracruz,Veracruz,Veracruz,30193,ep_b,2022
+Torreón,Torreón,Coahuila,5035,ep_b,2018
+Huatulco,Santa María Huatulco,Oaxaca,20041,ep_b,2017
+San Cristóbal de las Casas,San Cristóbal de las Casas,Chiapas,7078,ep_b,2011
+Querétaro,Querétaro,Querétaro,22014,ep_b,2006
+Escárcega,Escárcega,Campeche,4009,ep_b,2006
+Chihuahua,Chihuahua,Chihuahua,8019,ep_b,2018
+Guadalajara,Guadalajara,Jalisco,14039,ep_b,2009
+Aguascalientes,Aguascalientes,Aguascalientes,1001,ep_b,2012
+Gómez Palacio,Gómez Palacio,Durango,10007,ep_b,2021
+Mazatlán,Mazatlán,Sinaloa,25012,ep_b,0
+Echegaray,Pijijiapan,Chiapas,7069,ep_b,2012
+El Huayate,Mazatán,Chiapas,7054,ep_b,2014
+Saltillo,Saltillo,Coahuila,5030,ep_b,2018
+Los Cabos,San José del Cabo,Baja California,3008,ep_b,2004
+Monclova,Monclova,Coahuila,5018,ep_b,2018

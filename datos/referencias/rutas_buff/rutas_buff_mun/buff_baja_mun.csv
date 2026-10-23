@@ -1,0 +1,269 @@
+CVEGEO,CVE_ENT,CVE_MUN,NOMGEO
+"02003","02","003",Tecate
+"02004","02","004",Tijuana
+"02002","02","002",Mexicali
+"09015","09","015",Cuauhtémoc
+"09007","09","007",Iztapalapa
+"09010","09","010",Álvaro Obregón
+"09016","09","016",Miguel Hidalgo
+"09004","09","004",Cuajimalpa de Morelos
+"09006","09","006",Iztacalco
+"09011","09","011",Tláhuac
+"09005","09","005",Gustavo A. Madero
+"09002","09","002",Azcapotzalco
+"09017","09","017",Venustiano Carranza
+"11019","11","019",Jerécuaro
+"11023","11","023",Pénjamo
+"11038","11","038",Tarandacuao
+"11039","11","039",Tarimoro
+"11002","11","002",Acámbaro
+"11024","11","024",Pueblo Nuevo
+"11007","11","007",Celaya
+"11027","11","027",Salamanca
+"11035","11","035",Santa Cruz de Juventino Rosas
+"11011","11","011",Cortazar
+"11028","11","028",Salvatierra
+"11042","11","042",Valle de Santiago
+"11044","11","044",Villagrán
+"11001","11","001",Abasolo
+"11004","11","004",Apaseo el Alto
+"11005","11","005",Apaseo el Grande
+"11016","11","016",Huanímaro
+"11017","11","017",Irapuato
+"13076","13","076",Tula de Allende
+"13029","13","029",Huichapan
+"13063","13","063",Tepeji del Río de Ocampo
+"13044","13","044",Nopala de Villagrán
+"14101","14","101",Tonalá
+"14055","14","055",Magdalena
+"14063","14","063",Ocotlán
+"14120","14","120",Zapopan
+"14123","14","123",Zapotlán del Rey
+"14098","14","098",San Pedro Tlaquepaque
+"14105","14","105",Tototlán
+"14124","14","124",Zapotlanejo
+"14070","14","070",El Salto
+"14018","14","018",La Barca
+"14051","14","051",Juanacatlán
+"14039","14","039",Guadalajara
+"14016","14","016",Ayotlán
+"14003","14","003",Ahualulco de Mercado
+"14005","14","005",Amatitán
+"14094","14","094",Tequila
+"14095","14","095",Teuchitlán
+"14047","14","047",Jamay
+"14040","14","040",Hostotipaquillo
+"14033","14","033",Degollado
+"14009","14","009",El Arenal
+"14007","14","007",San Juanito de Escobedo
+"15011","15","011",Atenco
+"15118","15","118",Zinacantepec
+"15085","15","085",Temascalcingo
+"15096","15","096",Tequixquiac
+"15104","15","104",Tlalnepantla de Baz
+"15076","15","076",San Mateo Atenco
+"15023","15","023",Coyotepec
+"15025","15","025",Chalco
+"15109","15","109",Tultitlán
+"15014","15","014",Atlacomulco
+"15003","15","003",Aculco
+"15005","15","005",Almoloya de Juárez
+"15024","15","024",Cuautitlán
+"15120","15","120",Zumpango
+"15042","15","042",Ixtlahuaca
+"15047","15","047",Jiquipilco
+"15022","15","022",Cocotitlán
+"15057","15","057",Naucalpan de Juárez
+"15106","15","106",Toluca
+"15079","15","079",Soyaniquilpan de Juárez
+"15035","15","035",Huehuetoca
+"15064","15","064",El Oro
+"15102","15","102",Timilpan
+"15087","15","087",Temoaya
+"15108","15","108",Tultepec
+"15051","15","051",Lerma
+"15046","15","046",Jilotzingo
+"15037","15","037",Huixquilucan
+"15039","15","039",Ixtapaluca
+"15048","15","048",Jocotitlán
+"15121","15","121",Cuautitlán Izcalli
+"15071","15","071",Polotitlán
+"15067","15","067",Otzolotepec
+"15070","15","070",La Paz
+"15112","15","112",Villa del Carbón
+"15091","15","091",Teoloyucan
+"15099","15","099",Texcoco
+"15122","15","122",Valle de Chalco Solidaridad
+"15045","15","045",Jilotepec
+"15115","15","115",Xonacatlán
+"15029","15","029",Chicoloapan
+"15058","15","058",Nezahualcóyotl
+"15054","15","054",Metepec
+"15001","15","001",Acambay de Ruíz Castañeda
+"15053","15","053",Melchor Ocampo
+"15033","15","033",Ecatepec de Morelos
+"15013","15","013",Atizapán de Zaragoza
+"15031","15","031",Chimalhuacán
+"15095","15","095",Tepotzotlán
+"16003","16","003",Álvaro Obregón
+"16106","16","106",Yurécuaro
+"16107","16","107",Zacapu
+"16109","16","109",Zináparo
+"16110","16","110",Zinapécuaro
+"16011","16","011",Briseñas
+"16044","16","044",Jiménez
+"16020","16","020",Cuitzeo
+"16018","16","018",Copándaro
+"16086","16","086",Tanhuato
+"16072","16","072",Queréndaro
+"16067","16","067",Penjamillo
+"16037","16","037",Huaniqueo
+"16040","16","040",Indaparapeo
+"16042","16","042",Ixtlán
+"16050","16","050",Maravatío
+"16053","16","053",Morelia
+"16016","16","016",Coeneo
+"16017","16","017",Contepec
+"16080","16","080",Senguio
+"16034","16","034",Hidalgo
+"16060","16","060",Numarán
+"16063","16","063",Panindícuaro
+"16105","16","105",Vista Hermosa
+"16030","16","030",Ecuandureo
+"16028","16","028",Churintzio
+"16027","16","027",Chucándiro
+"16069","16","069",La Piedad
+"16071","16","071",Puruándiro
+"16088","16","088",Tarímbaro
+"16093","16","093",Tlalpujahua
+"16094","16","094",Tlazazalca
+"18001","18","001",Acaponeta
+"18010","18","010",Rosamorada
+"18011","18","011",Ruíz
+"18017","18","017",Tepic
+"18013","18","013",San Pedro Lagunillas
+"18008","18","008",Xalisco
+"18006","18","006",Ixtlán del Río
+"18007","18","007",Jala
+"18014","18","014",Santa María del Oro
+"18015","18","015",Santiago Ixcuintla
+"18016","18","016",Tecuala
+"18012","18","012",San Blas
+"18002","18","002",Ahuacatlán
+"20002","20","002",Acatlán de Pérez Figueroa
+"20021","20","021",Cosolapa
+"21180","21","180",Tlahuapan
+"21132","21","132",San Martín Texmelucan
+"21143","21","143",San Salvador el Verde
+"21099","21","099",Cañada Morelos
+"21001","21","001",Acajete
+"21110","21","110",Palmar de Bravo
+"21065","21","065",General Felipe Ángeles
+"21181","21","181",Tlaltenango
+"21063","21","063",Esperanza
+"21090","21","090",Juan C. Bonilla
+"21034","21","034",Coronango
+"21074","21","074",Huejotzingo
+"21122","21","122",San Felipe Teotlalcingo
+"21154","21","154",Tecamachalco
+"21153","21","153",Tecali de Herrera
+"21118","21","118",Los Reyes de Juárez
+"21004","21","004",Acatzingo
+"21134","21","134",San Matías Tlalancaleca
+"21140","21","140",San Pedro Cholula
+"21023","21","023",Atzitzintla
+"21115","21","115",Quecholac
+"21114","21","114",Puebla
+"21144","21","144",San Salvador Huixcolotla
+"21015","21","015",Amozoc
+"21163","21","163",Tepatlaxco de Hidalgo
+"21048","21","048",Chiautzingo
+"21164","21","164",Tepeaca
+"21136","21","136",San Miguel Xoxtla
+"21045","21","045",Chalchicomula de Sesma
+"21041","21","041",Cuautlancingo
+"21040","21","040",Cuautinchán
+"21038","21","038",Cuapiaxtla de Madero
+"22006","22","006",Corregidora
+"22011","22","011",El Marqués
+"22012","22","012",Pedro Escobedo
+"22016","22","016",San Juan del Río
+"22014","22","014",Querétaro
+"22005","22","005",Colón
+"22008","22","008",Huimilpan
+"25010","25","010",El Fuerte
+"25008","25","008",Elota
+"25016","25","016",San Ignacio
+"25018","25","018",Navolato
+"25014","25","014",Rosario
+"25001","25","001",Ahome
+"25002","25","002",Angostura
+"25020","25","020",Juan José Ríos
+"25019","25","019",Eldorado
+"25009","25","009",Escuinapa
+"25004","25","004",Concordia
+"25012","25","012",Mazatlán
+"25013","25","013",Mocorito
+"25015","25","015",Salvador Alvarado
+"25006","25","006",Culiacán
+"25017","25","017",Sinaloa
+"25011","25","011",Guasave
+"26033","26","033",Huatabampo
+"26056","26","056",San Miguel de Horcasitas
+"26070","26","070",General Plutarco Elías Calles
+"26064","26","064",Trincheras
+"26021","26","021",La Colorada
+"26016","26","016",Benjamín Hill
+"26029","26","029",Guaymas
+"26055","26","055",San Luis Río Colorado
+"26003","26","003",Álamos
+"26030","26","030",Hermosillo
+"26025","26","025",Empalme
+"26026","26","026",Etchojoa
+"26004","26","004",Altar
+"26048","26","048",Puerto Peñasco
+"26017","26","017",Caborca
+"26012","26","012",Bácum
+"26018","26","018",Cajeme
+"26047","26","047",Pitiquito
+"26020","26","020",Carbó
+"26042","26","042",Navojoa
+"26045","26","045",Opodepe
+"29019","29","019",Tepetitla de Lardizábal
+"29054","29","054",San Lorenzo Axocomanitla
+"29042","29","042",Xicohtzinco
+"29044","29","044",Zacatelco
+"29025","29","025",San Pablo del Monte
+"29015","29","015",Ixtacuixtla de Mariano Matamoros
+"29057","29","057",Santa Apolonia Teacalco
+"29041","29","041",Papalotla de Xicohténcatl
+"29023","29","023",Natívitas
+"29032","29","032",Tetlatlahuca
+"29027","29","027",Tenancingo
+"30185","30","185",Tlilapan
+"30138","30","138",Río Blanco
+"30074","30","074",Huiloapan de Cuauhtémoc
+"30147","30","147",Soledad Atzompa
+"30068","30","068",Fortín
+"30173","30","173",Tezonapa
+"30030","30","030",Camerino Z. Mendoza
+"30022","30","022",Atzacan
+"30101","30","101",Mariano Escobedo
+"30018","30","018",Aquila
+"30006","30","006",Acultzingo
+"30014","30","014",Amatlán de los Reyes
+"30117","30","117",Omealca
+"30113","30","113",Naranjal
+"30115","30","115",Nogales
+"30044","30","044",Córdoba
+"30052","30","052",Cuichapa
+"30099","30","099",Maltrata
+"30196","30","196",Yanga
+"30201","30","201",Zongolica
+"30081","30","081",Ixhuatlancillo
+"30085","30","085",Ixtaczoquitlán
+"30041","30","041",Coetzala
+"30053","30","053",Cuitláhuac
+"30118","30","118",Orizaba
+"30135","30","135",Rafael Delgado
+"30174","30","174",Tierra Blanca
