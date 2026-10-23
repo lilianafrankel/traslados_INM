@@ -49,71 +49,71 @@ Los cuadernos se pueden correr en el orden en que están etiquetados (01, 02, 03
 
 traslados_INM
 
-├── `README.md`                  ← este documento
+- `README.md`                  ← este documento
 
-├── `LICENSE`                    ← licencia del código
+- `LICENSE`                    ← licencia del código
 
-├── `LICENSE-DATA`               ← licencia de los datos
+- `LICENSE-DATA`               ← licencia de los datos
 
-├── `requirements.txt`           ← paquetes requeridos para ejectuar el proyecto
+- `requirements.txt`           ← paquetes requeridos para ejectuar el proyecto
 
-├── `.gitignore`                 ← archivo para ejecutar el código sin extras
+- `.gitignore`                 ← archivo para ejecutar el código sin extras
 
-├── `notebooks/`                 ← cuadernos de Juypter, para ejecutar en orden (01, 02, 03)
+- `notebooks/`                 ← cuadernos de Juypter, para ejecutar en orden (01, 02, 03)
 
-│   ├── `01_limpieza_traslados_INM.ipynb`
+- `01_limpieza_traslados_INM.ipynb`
 
-│   ├── `02_analisis_traslados_INM.ipynb`
+- `02_analisis_traslados_INM.ipynb`
 
-│   └── `03_calculos_figuras_traslados_INM.ipynb`
+- `03_calculos_figuras_traslados_INM.ipynb`
 
-├── `datos/`
+- `datos/`
 
-│   ├── `originales/`            ← los archivos recibidos del INM
+- `originales/`            ← los archivos recibidos del INM
 
-│   ├── `procesados/`            
+- `procesados/`            
 
-│   │   ├── `etiquetados/`       ← las mismas tablas, más una columna de índice, y con las inconsistencias destacadas
+- `etiquetados/`       ← las mismas tablas, más una columna de índice, y con las inconsistencias destacadas
 
-│   │   ├── `datos_limpios_concatenados.parquet`       ← los datos originales limpios en una sola tabla, aún sin análisis
+- `datos_limpios_concatenados.parquet`       ← los datos originales limpios en una sola tabla, aún sin análisis
 
-│   │   ├── `datos_analizados_condep.csv`         ← los datos completos analizados
+- `datos_analizados_condep.csv`         ← los datos completos analizados
 
-│   │   ├── `datos_analizados_solomx.csv`         ← los traslados internos analizados
+- `datos_analizados_solomx.csv`         ← los traslados internos analizados
 
-│   │   └── `datos_analizados_solodep.csv`        ← las deportaciones analizadas
+- `datos_analizados_solodep.csv`        ← las deportaciones analizadas
 
-│   └── `referencias/`           ← archivos necesarios para que el código corra correctamente
+- `referencias/`           ← archivos necesarios para que el código corra correctamente
 
-│   │   ├── `rutas/`             ← archivos geoespaciales (líneas) que representan rutas migratorias históricas en México, generados en QGIS
+- `rutas/`             ← archivos geoespaciales (líneas) que representan rutas migratorias históricas en México, generados en QGIS
 
-│   │   ├── `rutas_buff/`        ← las mismas rutas con un buffer de 5 kilómetros
+- `rutas_buff/`        ← las mismas rutas con un buffer de 5 kilómetros
 
-│   │   │   ├── `rutas_buff_shp/` ← datos geográficos
+- `rutas_buff_shp/` ← datos geográficos
 
-│   │   │   ├── `rutas_buff_mun/` ← los municipios que cada ruta con su buffer cruza en csv's
+- `rutas_buff_mun/` ← los municipios que cada ruta con su buffer cruza en csv's
 
-│   │   │   └── `rutas_buff_mun_master.csv` ← tabla que enlista todos los municipios cruzados de todas las rutas
+- `rutas_buff_mun_master.csv` ← tabla que enlista todos los municipios cruzados de todas las rutas
 
-│   │   ├── `áreas_geoestadísticas_municipales.csv`     ← datos geográficos de todos los municipios de México. Fuente: [INEGI](https://www.inegi.org.mx/app/ageeml/)
+- `áreas_geoestadísticas_municipales.csv`     ← datos geográficos de todos los municipios de México. Fuente: [INEGI](https://www.inegi.org.mx/app/ageeml/)
 
-│   │   ├── `municipios.zip`        ← archivos shp de todos los municipios de México, **tiene que descomprimirse para funcionar** Fuente: [INEGI](https://www.inegi.org.mx/app/ageeml/)
+- `municipios.zip`        ← archivos shp de todos los municipios de México, **tiene que descomprimirse para funcionar** Fuente: [INEGI](https://www.inegi.org.mx/app/ageeml/)
 
-│   │   ├── `EMs.csv`            ← tabla de estaciones migratorias y estancias provisionales del INM, sus municipios, y fechas de inicio
+- `EMs.csv`            ← tabla de estaciones migratorias y estancias provisionales del INM, sus municipios, y fechas de inicio
 
-│   │   └── `diccionario_sentidos.parquet` ← tabla de rutas posibles con sus sentidos asignados manualmente con referencia al mapa
+- `diccionario_sentidos.parquet` ← tabla de rutas posibles con sus sentidos asignados manualmente con referencia al mapa
 
-├── `docs/`
+- `docs/`
 
-│   ├── `mapa_rutas.png`         ← el mapa de rutas como imagen
+- `mapa_rutas.png`         ← el mapa de rutas como imagen
 
-│   ├── `data_dict_en.pdf`       ← el diccionario de datos en inglés
+- `data_dict_en.pdf`       ← el diccionario de datos en inglés
 
-│   └── `dicc_datos_esp.pdf`     ← el diccionario de datos en español
+- `dicc_datos_esp.pdf`     ← el diccionario de datos en español
 
-└── `para_figuras/`              ← archivos necesarios para generar las gráficas del informe en Flourish
+- `para_figuras/`              ← archivos necesarios para generar las gráficas del informe en Flourish
 
-│   └── `para_mapa_interactivo/` ← archivos necesarios para generar la visualización interactiva
+- `para_mapa_interactivo/` ← archivos necesarios para generar la visualización interactiva
 
 
 ## Licencia
