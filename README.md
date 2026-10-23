@@ -1,6 +1,6 @@
 # traslados_INM
 
-Proyecto para analizar los registros oficiales de traslados internos del Instituto Nacional de Migración (INM) en México desde 2017 hasta la primera parte de 2024. 
+Proyecto para analizar los registros oficiales de traslados internos del Instituto Nacional de Migración (INM) en México desde 2017 hasta la primera mitad de 2024. 
 
 Aquí se crearon los archivos base para la visualización realizada por @jdangoh y el informe ["La dispersión como una política migratoria de desgaste"](https://tirandocodigo.mx/traslados-migracion/). 
 
