@@ -37,13 +37,15 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Después, abre Jupyter con `jupyter notebook` y ejecuta los cuadernos en orden (01, 02, 03).
+Después, abra Jupyter con `jupyter notebook` y ejecute los cuadernos en orden (01, 02, 03).
+
+Tenga en cuenta la necesidad de descomprimir el archivo .zip de municipios en la carpeta de `datos/referencias`
 
 Nota: si la instalación de `geopandas` falla, consulta la guía oficial: https://geopandas.org/en/stable/getting_started/install.html
 
 ## Instrucciones para el uso 
 
-Los cuadernos se pueden correr en el orden en que están etiquetados (01, 02, 03). Así se repite la limpieza, el análisis, y los cálculos realizados desde la base de datos recibida del INM. 
+Los cuadernos se pueden correr en el orden en que están etiquetados (01, 02, 03).  
 
 ## Estructura del repositorio
 
