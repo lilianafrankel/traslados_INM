@@ -8,7 +8,7 @@ Al observar las tendencias en los traslados internos del INM, nos acercamos a un
 
 ## Los datos
 
-Los datos que conforman la base principal de registros de traslados se obtuvieron mediante una solicitud de transparencia realizada al Instituto Nacional de Migración [INM] en 2024. Abarcan el periodo de 2017-2023 y la primera mitad de 2024. Para cada traslado, está registrado el origen y destino, el número total de personas a bordo, y sus sexos, nacionalidades y si eran menores o mayores de edad. 
+Los datos que conforman la base principal de registros de traslados se obtuvieron mediante una solicitud de transparencia realizada al Instituto Nacional de Migración [INM] en 2024. Abarcan el periodo de 2017-2023 y la primera mitad de 2024. Para cada traslado, está registrado el origen y destino, el número total de personas a bordo, y su sexo, nacionalidad y si eran menores o mayores de edad. 
 
 - La limpieza de datos resultó ser una tarea compleja debido al registro de inconsistencias importantes entre las formas de registro utilizadas por cada Oficina de Representación del INM, las cuales también variaban entre los años registrados. La sistematización de estas inconsistencias y las reglas que se siguieron para homologarlas se encuentra en la siguiente [tabla](https://docs.google.com/spreadsheets/d/17OCfRHTOGVZ7WL_YxtLJe7dqQxjmPX-1wGMM3uXzsgY/edit?usp=sharing). 
 
