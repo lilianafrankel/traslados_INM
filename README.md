@@ -2,7 +2,7 @@
 
 Proyecto para analizar los registros oficiales de traslados internos del Instituto Nacional de Migración (INM) en México desde 2017 hasta la primera mitad de 2024. 
 
-Aquí se crearon los archivos base para la visualización realizada por @jdangoh y el informe ["La dispersión como una política migratoria de desgaste"](https://tirandocodigo.mx/traslados-migracion/). 
+Aquí se crearon los archivos base para la visualización realizada por @jdanielgoh y el informe ["La dispersión como una política migratoria de desgaste"](https://tirandocodigo.mx/traslados-migracion/). 
 
 Al observar las tendencias en los traslados internos del INM, nos acercamos a un mecanismo clave para la externalización de la frontera estadounidense en territorio mexicano. También observamos la creación de una infraestructura nivel megaproyecto que facilita la colaboración entre dependencias civiles y fuerzas armadas para efectuar la contención de las personas migrantes.
 
@@ -10,9 +10,9 @@ Al observar las tendencias en los traslados internos del INM, nos acercamos a un
 
 Los datos que conforman la base principal de registros de traslados se obtuvieron mediante una solicitud de transparencia realizada al Instituto Nacional de Migración [INM] en 2024. Abarcan el periodo de 2017-2023 y la primera mitad de 2024. Para cada traslado, está registrado el origen y destino, el número total de personas a bordo, y su sexo, nacionalidad y si eran menores o mayores de edad. 
 
-- La limpieza de datos resultó ser una tarea compleja debido al registro de inconsistencias importantes entre las formas de registro utilizadas por cada Oficina de Representación del INM, las cuales también variaban entre los años registrados. La sistematización de estas inconsistencias y las reglas que se siguieron para homologarlas se encuentran en la siguiente [tabla](https://docs.google.com/spreadsheets/d/17OCfRHTOGVZ7WL_YxtLJe7dqQxjmPX-1wGMM3uXzsgY/edit?usp=sharing). 
+- La limpieza de datos resultó ser una tarea compleja debido a inconsistencias importantes entre las formas de registro utilizadas por cada Oficina de Representación del INM, las cuales también variaban entre los años registrados. La sistematización de estas inconsistencias y las reglas que se siguieron para homologarlas se encuentran en la siguiente [tabla](https://docs.google.com/spreadsheets/d/17OCfRHTOGVZ7WL_YxtLJe7dqQxjmPX-1wGMM3uXzsgY/edit?usp=sharing). 
 
-- Para evaluar la correspondencia de cada traslado interno con las rutas migratorias históricas establecidas en México, fue necesario generar un mapa de rutas en QGIS. Las rutas generadas (solas y con buffer de 5 km) se encuentran en la carpeta `datos/referencias`, el mapa final en la carpeta `docs`, y el proceso se encuentra documentado con mayor detalle en el diccionario de datos, el cual también se encuentra en la carpeta `docs` en inglés y español.
+- Para evaluar la correspondencia de cada traslado interno con las rutas migratorias históricas establecidas en México, fue necesario generar un mapa de rutas en QGIS. Las rutas generadas (solas y con buffer de 5 km) se encuentran en la carpeta `datos/referencias`, el mapa final en la carpeta `docs`, y el proceso se encuentra documentado con mayor detalle en el diccionario de datos, el cual también se encuentra en la carpeta `docs` en inglés y español, y al final de los informes cargados al sitio interactivo.
 
 - Para evaluar si los traslados terminaron en municipios con alguna estancia provisional o estación migratoria del INM, se consultó el siguiente [informe](https://www.cndh.org.mx/sites/default/files/documentos/2024-02/INFORME%20ESPECIAL%20ESTANCIAS%20MIGRATORIAS.pdf) de la Comisión Nacional de Derechos Humanos, que en la página 164 empieza un recuento de dichas instalaciones en todo el país, junto con sus fechas de inicio de operaciones. Esta información fue sistematizada en una tabla, la cual está vinculada en `datos/referencias`. 
 
@@ -22,7 +22,7 @@ Los datos que conforman la base principal de registros de traslados se obtuviero
 
 - Sistema de referencia de coordenadas (CRS): `EPSG:4326` (WGS 84).
 
-- El trabajo fue colaborativo; yo (@lilianafrankel) escribí en consulta cercana con @jdangoh y @santiagonh, cuyas contribuciones concretas son indicadas en las secciones a que pertenecen, aunque su influencia y comentarios permean todo el trabajo realizado. Sierra Wells y Kathleen Escoto también ayudaron a revisar el código. 
+- El trabajo fue colaborativo; yo (@lilianafrankel) escribí en consulta cercana con @jdanielgoh y @santiagonh, cuyas contribuciones concretas son indicadas en las secciones a que pertenecen, aunque su influencia y comentarios permean todo el trabajo realizado. Sierra Wells y Kathleen Escoto también ayudaron a revisar el código. 
 
 ## Requisitos
 
